@@ -12,17 +12,17 @@ No entanto, no último trimestre, a empresa observou uma **queda expressiva no f
 
 ---
 
-### 🎯 Objetivo
+### Objetivo
 
 O objetivo deste projeto é investigar os dados históricos de vendas da HashTech para:
 
-- 📉 Identificar **quando** ocorreu a queda no faturamento.
-- 🔍 Detectar **o que mudou** no período (preço, volume, produto, canal, etc).
-- 💡 Levantar **hipóteses plausíveis** para explicar a queda.
+- Identificar **quando** ocorreu a queda no faturamento.
+- Detectar **o que mudou** no período (preço, volume, produto, canal, etc).
+- Levantar **hipóteses plausíveis** para explicar a queda.
 
 ---
 
-### 📊 Base de Dados
+### Base de Dados
 
 A análise é baseada em uma base fictícia de vendas com os seguintes campos:
 
@@ -34,7 +34,7 @@ A análise é baseada em uma base fictícia de vendas com os seguintes campos:
 
 ---
 
-### 🧪 Análises Realizadas
+### Análises Realizadas
 
 - Evolução mensal do **faturamento total** da empresa
 - Avaliação do faturamento por produto
@@ -42,33 +42,33 @@ A análise é baseada em uma base fictícia de vendas com os seguintes campos:
 
 ---
 
-### ✅ Conclusões
+### Conclusões
 
-- 📉 **Quando a queda começou?**  
+- **Quando a queda começou?**  
   O faturamento começou a cair no mês de **outubro**
 
-- 📈 **O que mudou?**  
+- **O que mudou?**  
   O **preço médio** da **Placa de Vídeo** (produto de maior ticket) começou a subir significativamente a partir de outubro
 
-- 💡 **Hipóteses levantadas:**  
+- **Hipóteses levantadas:**  
   - O aumento do preço da **Placa de Vídeo** impactou negativamente seu volume de vendas.  
   - Embora **Mouse** e **SSD** também tenham sofrido quedas, o impacto maior veio da **Placa de Vídeo**, produto que é o principal responsável pelo faturamento
 
 ---
 
-### 🛠️ Tecnologias Utilizadas
+### Tecnologias Utilizadas
 
 - `R` / `ggplot2` / `dplyr`
 - Visualizações com gráficos de linha e barras
 
 ---
 
-### 📁 Organização do Projeto
+### Organização do Projeto
 
-'''
+```text
 📦 dataviz_hashtech_salesdrop/
 ├── data/         # Base de dados fictícia utilizada na análise
 ├── scripts/      # Scripts de análise e geração de visualizações (R)
 ├── plots/        # Imagens geradas durante a análise (gráficos)
 ├── README.md     # Documentação principal do projeto
-'''
+```
