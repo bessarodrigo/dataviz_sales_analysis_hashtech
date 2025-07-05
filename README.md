@@ -65,8 +65,10 @@ A análise é baseada em uma base fictícia de vendas com os seguintes campos:
 
 ### 📁 Organização do Projeto
 
+'''
 📦 dataviz_hashtech_salesdrop/
 ├── data/         # Base de dados fictícia utilizada na análise
 ├── scripts/      # Scripts de análise e geração de visualizações (R)
 ├── plots/        # Imagens geradas durante a análise (gráficos)
 ├── README.md     # Documentação principal do projeto
+'''
