@@ -22,6 +22,17 @@ O objetivo deste projeto é investigar os dados históricos de vendas da HashTec
 
 ---
 
+### Organização do Projeto
+
+```text
+📦 dataviz_hashtech_salesdrop/
+├── data/         # Base de dados fictícia utilizada na análise
+├── scripts/      # Scripts de análise e geração de visualizações (R)
+├── plots/        # Imagens geradas durante a análise (gráficos)
+├── README.md     # Documentação principal do projeto
+```
+---
+
 ### Base de Dados
 
 A análise é baseada em uma base fictícia de vendas com os seguintes campos:
@@ -60,15 +71,3 @@ A análise é baseada em uma base fictícia de vendas com os seguintes campos:
 
 - `R` / `ggplot2` / `dplyr`
 - Visualizações com gráficos de linha e barras
-
----
-
-### Organização do Projeto
-
-```text
-📦 dataviz_hashtech_salesdrop/
-├── data/         # Base de dados fictícia utilizada na análise
-├── scripts/      # Scripts de análise e geração de visualizações (R)
-├── plots/        # Imagens geradas durante a análise (gráficos)
-├── README.md     # Documentação principal do projeto
-```
