@@ -16,9 +16,9 @@ No entanto, no último trimestre, a empresa observou uma **queda expressiva no f
 
 O objetivo deste projeto é investigar os dados históricos de vendas da HashTech para:
 
-- Identificar **quando** ocorreu a queda no faturamento.
-- Detectar **o que mudou** no período (preço, volume, produto, canal, etc).
-- Levantar **hipóteses plausíveis** para explicar a queda.
+- Identificar **quando** ocorreu a queda no faturamento
+- Detectar **o que mudou** no período (preço, volume, produto, canal, etc)
+- Levantar **hipóteses plausíveis** para explicar a queda
 
 ---
 
