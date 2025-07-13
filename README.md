@@ -57,9 +57,13 @@ A análise é baseada em uma base fictícia de vendas com os seguintes campos:
 
 - **Quando a queda começou?**  
   O faturamento começou a cair no mês de **outubro**
+  
+  ![Faturamento Mensal](plots/plots_python/faturamento_mensal.png)
 
 - **O que mudou?**  
   O **preço médio** da **Placa de Vídeo** (produto de maior ticket) começou a subir significativamente a partir de outubro
+
+  ![Faturamento por Produto](plots/plots_python/faturamento_mensal_produto.png)
 
 - **Hipóteses levantadas:**  
   - O aumento do preço da **Placa de Vídeo** impactou negativamente seu volume de vendas.  
