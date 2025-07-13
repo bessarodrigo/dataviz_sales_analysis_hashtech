@@ -48,21 +48,25 @@ A análise é baseada em uma base fictícia de vendas com os seguintes campos:
 ### Análises Realizadas
 
 - Evolução mensal do **faturamento total** da empresa
+
+<img src="plots/plots_python/faturamento_mensal.png" alt="Faturamento Mensal" width="600"/>
+
 - Avaliação do faturamento por produto
+
+<img src="plots/plots_python/faturamento_mensal_produto.png" alt="Faturamento Mensal por Produto" width="600"/>
+
 - Análise de **preço médio** por produto ao longo do tempo.
 
 ---
 
 ### Conclusões
 
-- **Quando a queda começou?**  O faturamento começou a cair no mês de **outubro**
+- **Quando a queda começou?**
+  - O faturamento começou a cair no mês de **outubro**
+
+- **O que mudou?**
+  - O **preço médio** da **Placa de Vídeo** (produto de maior ticket) começou a subir significativamente a partir de outubro
   
-<img src="plots/plots_python/faturamento_mensal.png" alt="Faturamento Mensal" width="600"/>
-
-- **O que mudou?**  O **preço médio** da **Placa de Vídeo** (produto de maior ticket) começou a subir significativamente a partir de outubro
-
-<img src="plots/plots_python/faturamento_mensal_produto.png" alt="Faturamento Mensal por Produto" width="600"/>
-
 - **Hipóteses levantadas:**  
   - O aumento do preço da **Placa de Vídeo** impactou negativamente seu volume de vendas.  
   - Embora **Mouse** e **SSD** também tenham sofrido quedas, o impacto maior veio da **Placa de Vídeo**, produto que é o principal responsável pelo faturamento
