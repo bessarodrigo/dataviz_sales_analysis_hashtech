@@ -70,4 +70,5 @@ A análise é baseada em uma base fictícia de vendas com os seguintes campos:
 ### Tecnologias Utilizadas
 
 - `R` / `ggplot2` / `dplyr`
+- 'Python' / 'Matplotlib' / 'Pandas'
 - Visualizações com gráficos de linha e barras
