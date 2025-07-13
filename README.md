@@ -57,6 +57,8 @@ A análise é baseada em uma base fictícia de vendas com os seguintes campos:
 
 - Análise de **preço médio** por produto ao longo do tempo.
 
+<img src="plots/plots_python/preco_medio_produtos.png" alt="Preço Médio dos Produtos" width="600"/>
+
 ---
 
 ### Conclusões
